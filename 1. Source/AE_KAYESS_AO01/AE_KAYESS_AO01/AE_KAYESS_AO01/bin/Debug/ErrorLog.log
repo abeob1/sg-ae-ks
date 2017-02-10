@@ -1,0 +1,86 @@
+[03/27/2014 14:43:10][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[03/27/2014 14:43:10][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[03/27/2014 14:43:37][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[03/27/2014 15:07:26][                        Main()] Connection - Could not find SBO that match the connection string
+[03/27/2014 15:09:17][                        Main()] Connection - Could not find SBO that match the connection string
+[03/27/2014 15:34:12][      CreateAutoBatchProcess()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:34:12][   SBO_Application_ItemEvent()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:34:44][      CreateAutoBatchProcess()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:34:44][   SBO_Application_ItemEvent()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:35:06][      CreateAutoBatchProcess()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:35:06][   SBO_Application_ItemEvent()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:35:08][      CreateAutoBatchProcess()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:35:08][   SBO_Application_ItemEvent()] Unable to cast COM object of type 'System.__ComObject' to interface type 'SAPbouiCOM.Matrix'. This operation failed because the QueryInterface call on the COM component for the interface with IID '{DD7804DC-811B-4829-8E87-2F5C061EE59C}' failed due to the following error: No such interface supported (Exception from HRESULT: 0x80004002 (E_NOINTERFACE)).
+[03/27/2014 15:37:25][                 DisplayStatus] Form - Not found  [66000-9]
+[03/27/2014 15:38:16][   SBO_Application_ItemEvent()] 
+[03/27/2014 15:38:24][      CreateAutoBatchProcess()] A00006 >>  Line : 0 Invalid Date Value  [131-183]
+[03/27/2014 15:38:24][   SBO_Application_ItemEvent()] A00006 >>  Line : 0 Invalid Date Value  [131-183]
+[04/03/2014 11:10:02][                 DisplayStatus] Form - Modal form is currently active  [66000-92]
+[04/04/2014 08:21:44][            ConnectDICompSSO()] Value does not fall within the expected range.
+[04/04/2014 08:21:44][                        Main()] Value does not fall within the expected range.
+[04/04/2014 08:38:39][   SBO_Application_ItemEvent()] Form - Invalid Form
+[04/04/2014 08:54:35][   SBO_Application_ItemEvent()] Form - Invalid Form
+[04/04/2014 09:16:30][   SBO_Application_ItemEvent()] Form - Invalid Form
+[04/22/2014 13:22:48][            ConnectDICompSSO()] Value does not fall within the expected range.
+[04/22/2014 13:22:48][                        Main()] Value does not fall within the expected range.
+[04/22/2014 13:30:38][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 13:30:38][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 13:30:38][            ConnectDICompSSO()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 13:30:38][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 13:30:38][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 13:30:38][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 13:30:38][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 13:31:27][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 13:31:27][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 13:31:52][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:45:58][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:45:58][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:45:58][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:45:58][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:45:58][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:45:58][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:45:58][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:45:58][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:46:39][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:46:39][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:47:37][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:47:37][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:47:37][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:47:37][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:47:37][   SBO_Application_ItemEvent()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:47:37][                     ShowErr()] COM object that has been separated from its underlying RCW cannot be used.
+[04/22/2014 18:48:03][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:48:03][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 18:48:52][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:06:55][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:06:55][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:07:28][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:08:37][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:12:11][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:12:11][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:17:33][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:17:33][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:22:49][                        Main()] Connection - Could not find SBO that match the connection string
+[04/22/2014 19:24:30][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:24:30][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:25:03][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:28:13][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:28:13][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:36:21][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:36:21][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:36:52][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/22/2014 19:36:52][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/23/2014 08:55:43][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/23/2014 08:55:43][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/23/2014 09:03:49][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04/23/2014 09:03:49][                        Main()] Connect of Single SignOn failed : Database server type not supported
+[04/23/2014 09:06:04][            ConnectDICompSSO()] Connect of Single SignOn failed : Database server type not supported
+[04 23 2014 07:06:24][                 DisplayStatus] Form - Modal form is currently active  [66000-92]
+[04 23 2014 07:09:18][      CreateAutoBatchProcess()]  Sorting ... Index and length must refer to a location within the string.
+Parameter name: length
+[04 23 2014 07:09:18][   SBO_Application_ItemEvent()]  Sorting ... Index and length must refer to a location within the string.
+Parameter name: length
+[04 23 2014 07:11:15][      CreateAutoBatchProcess()]  Sorting ... Index and length must refer to a location within the string.
+Parameter name: length
+[04 23 2014 07:11:15][   SBO_Application_ItemEvent()]  Sorting ... Index and length must refer to a location within the string.
+Parameter name: length
